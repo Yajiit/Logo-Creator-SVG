@@ -9,6 +9,8 @@ A command-line application for generating sample logos in 300x200px .svg format.
 
 [Link to Respository Page](https://github.com/Yajiit/Logo-Creator-SVG)
 
+[Link to Video Demonstration](https://drive.google.com/file/d/1yVUJf4RcaRQFXVdL0dFi6XwxlYl0BoJz/view)
+
 ## Table of Contents
 
 - [Installation](#installation)
